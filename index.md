@@ -2,122 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Hi, my name is **Binny Chanchal**. I build web apps, mobile apps and desktop apps. I love being challenged and I deliver high quality solutions with high benefits to my clients. 
 
-[Link to another page](./another-page.html).
+### I can help you to create highly-converting websites and apps for your startup or business. 
 
-There should be whitespace between paragraphs.
+### I collaborate closely with my clients to leverage their productivity, reduce business costs, and thereby enhance their competitive edge.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Not afraid to learn new technologies. Seeking for strong project and honest people to cooperate with. 
 
-# Header 1
+## I built projects with the following technologies:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### • Laravel Framework :
+*Laravel Framework 4.2 to 5.6, Laravel Forge, Laravel Spark, Vue.js, Angular.js, Angular6, PWA, Webpack, RESTFull API, 3rd-Party APIs.*
 
-## Header 2
+### • Windows App and Web Development :
+*C#, WinForms, ASP.NET MVC, WCF, LINQ, AJAX, MVC, MVVM, MVP, LINQ, Design Patterns, Web API, Windows Services, Selenium-WebDriver, Reflection, Serialization,Nunit, Entity Framework*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## • Source Code Management:
+*GitHub, BitBucket, GitLabs.*
+## • Cache:
+*Memcache, XCache, APC, Redis.*
+## • API:
+*Google Maps, Bing Maps v8, Facebook, various Payment methods like Paypal, Stripe and Authorize.net, FirstData, Zapier, Twilio, Zendesk etc.*
+## • Video/Audio Processing :
+*WebCam Video Recording using WebRTC and ffmpeg*
